@@ -1,2 +1,2 @@
 # Projects
-Projects that I have been part of.
+Illustrative code samples from my projects.
