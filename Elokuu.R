@@ -1,6 +1,6 @@
 #reading the data
 library(readr)
-elokuu <- read_csv("notebooks/Personal_Bud/ElokuuExpenses(Sheet1) (2).csv")
+elokuu <- read_csv("")
 View(elokuu)
 
 #turn PVM to date objects for R:
